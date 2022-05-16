@@ -39,16 +39,16 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/
+$ git clone https://github.com/LuanLeiteLeao/01-github-explorer.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd ????
+$ cd 01-github-explorer
 
 # Instale as dependências
 $ npm install
 
 # Inicar o servidor de desenvolviemnjtop 
-$ yarn ios
+$ npm run dev
 ```
 
 
